@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  flex-wrap: wrap;
+}
+
+
+
+
+.circle {
+  background:green;
+  border-radius:50%;
+  width: 200px;
+  height: 200px;
+
+}
